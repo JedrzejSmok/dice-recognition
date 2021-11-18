@@ -1,1 +1,2 @@
 # projektKCK
+add gitignore
