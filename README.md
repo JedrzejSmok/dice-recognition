@@ -1,4 +1,4 @@
-# dice-recognize
+# dice-recognition
 This task was based mainly on OpenCV package. Numpy, os and skimage are also required. Subtasks were:
 
 * picture preprocessing allowing for detecting contours
@@ -10,6 +10,6 @@ This task was based mainly on OpenCV package. Numpy, os and skimage are also req
 * [Jędrzej Smok](https://github.com/jedrzejSmok)
 
 ## Here are example input and output images
-<img src="https://github.com/JedrzejSmok/projektKCK/blob/main/set/3/hard (3).jpg" width="399" height="370"  title="Sample Input Image"> <img src="https://github.com/JedrzejSmok/projektKCK/blob/main/result/3/hard (3).jpg" width="399" height="370" title="Sample Output Image">
+<img src="https://github.com/JedrzejSmok/dice-recognition/blob/main/set/3/hard (3).jpg" width="399" height="370"  title="Sample Input Image"> <img src="https://github.com/JedrzejSmok/projektKCK/blob/main/result/3/hard (3).jpg" width="399" height="370" title="Sample Output Image">
 
-<img src="https://github.com/JedrzejSmok/projektKCK/blob/main/set/3/hard_mix (1).jpg" width="399" height="370"  title="Sample Input Image"> <img src="https://github.com/JedrzejSmok/projektKCK/blob/main/result/3/hard_mix (1).jpg" width="399" height="370" title="Sample Output Image">
+<img src="https://github.com/JedrzejSmok/dice-recognition/blob/main/set/3/hard_mix (1).jpg" width="399" height="370"  title="Sample Input Image"> <img src="https://github.com/JedrzejSmok/projektKCK/blob/main/result/3/hard_mix (1).jpg" width="399" height="370" title="Sample Output Image">
